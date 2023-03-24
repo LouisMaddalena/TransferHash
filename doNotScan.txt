@@ -1,0 +1,6 @@
+#Do Not Scan Preferences#
+
+#File Paths:
+/System
+/Library
+
